@@ -1,1 +1,3 @@
-# SMODE_dataworkshop_insitu_demo
+# S-MODE Data Workshop: In-situ data visualization demo
+
+
