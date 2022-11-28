@@ -1,0 +1,6 @@
+matplotlib
+jupyterlab
+xarray
+netCDF4
+gsw
+podaac-data-subscriber
