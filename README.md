@@ -7,6 +7,5 @@ demo is a jupyter notebook written in python 3 (`insitu_dataviz_demo.ipynb`).
 To install the python requirements for this demo, use 
 ```
 pip install -r requirements.txt
-
 ```
 
