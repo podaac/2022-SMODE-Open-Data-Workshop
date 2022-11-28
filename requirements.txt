@@ -1,6 +1,7 @@
 matplotlib
 jupyterlab
 xarray
+numpy
 netCDF4
 gsw
 podaac-data-subscriber
