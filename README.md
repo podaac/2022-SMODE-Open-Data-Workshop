@@ -89,3 +89,10 @@ You can also run the following script to automatically create your .netrc file i
         Popen('echo machine {1} >> {0}{2}'.format(homeDir + os.sep, urs, netrc_name), shell=True)
         Popen('echo login {} >> {}{}'.format(getpass(prompt=prompts[0]), homeDir + os.sep, netrc_name), shell=True)
         Popen('echo \'password {} \'>> {}{}'.format(getpass(prompt=prompts[1]), homeDir + os.sep, netrc_name), shell=True)
+        
+
+## Tutorials and Data Access
+ 
+S-MODE data can be found through Earthdata Search here: 
+        
+A notebook for creating the .netrc file and downloading the Dopplerscatt data used in the first workshop tutorial is available at [https://github.com/skinkpad/S-MODEDataWorkshop2022/blob/main/notebooks/DownloadDopplerScattData.ipynb](https://github.com/skinkpad/S-MODEDataWorkshop2022/blob/main/notebooks/DownloadDopplerScattData.ipynb).
