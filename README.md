@@ -40,6 +40,8 @@ To follow along hands-on during the Workshop, please do the following:
 Create an Earthdata Login account (if you don’t already have one) at [https://urs.earthdata.nasa.gov](https://urs.earthdata.nasa.gov)  
 Remember your username and password; you will need to download or access cloud data during the workshop and beyond.
 
+S-MODE datasets can be found through Earthdata Search: [https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE](https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE)
+
 #### Set up .netrc file for Earthdata login
 
 You will need a netrc file containing your NASA Earthdata Login credentials in order to execute the notebooks. A netrc file can be created manually within text editor and saved to your home directory. An example of the required content is below.
