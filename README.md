@@ -9,16 +9,6 @@ The Submesoscale Ocean Dynamics and Vertical Transport Experiment (S-MODE) scien
 
 [Register for the workshop here.](https://forms.gle/LaWxQ5VeB86tt27cA)
 
-### Log In
-https://espo.webex.com/espo/j.php?MTID=m55859d04bac65e2987b9ef0378c9aa48  
-Meeting number: 2550 322 6093  
-Password: yxCvw8Exv62
-
-Join by phone
-1-650-479-3207 Call-in toll number (US/Canada)
-
-Access code: 255 032 26093
-
 
 ## Agenda
 
