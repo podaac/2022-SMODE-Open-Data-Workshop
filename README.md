@@ -95,4 +95,5 @@ You can also run the following script to automatically create your .netrc file i
  
 S-MODE data can be found through Earthdata Search here: [https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE](https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE)
         
-A notebook for creating the .netrc file and downloading the Dopplerscatt data used in the first workshop tutorial is available at [https://github.com/skinkpad/S-MODEDataWorkshop2022/blob/main/notebooks/DownloadDopplerScattData.ipynb](https://github.com/skinkpad/S-MODEDataWorkshop2022/blob/main/notebooks/DownloadDopplerScattData.ipynb).
+A [notebook is available here](https://github.com/skinkpad/S-MODEDataWorkshop2022/blob/main/notebooks/DownloadDopplerScattData.ipynb) that walks through creating the .netrc file and downloading the Dopplerscatt data used in the first workshop tutorial.
+
