@@ -1,3 +1,6 @@
 [submodule "CaseStudy_Airborne"]
 	path = CaseStudy_Airborne
 	url = https://github.com/skinkpad/S-MODEDataWorkshop2022
+[submodule "CaseStudy_InSitu"]
+	path = CaseStudy_InSitu
+	url = https://github.com/cesar-rocha/SMODE_dataworkshop_insitu_demo
