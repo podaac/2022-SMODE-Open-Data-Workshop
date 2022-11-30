@@ -102,5 +102,5 @@ The [DownloadDopplerScattData.ipyb](./notebooks/DownloadDopplerScattData.ipynb) 
 
 ## Science Case Study 2 - In Situ
 
-The [insitu_Datavis_demo.ipynb](./notebooks/insitu_dataviz_demo.ipynb) notebook contains the In Situ Science Case Study data visualization and discussion. This notebook also contains sample code to run the PO.DAAC Data Downloader to download Saildrone data.
+The [insitu_datavis_demo.ipynb](./notebooks/insitu_dataviz_demo.ipynb) notebook contains the In Situ Science Case Study data visualization and discussion. This notebook also contains sample code to run the PO.DAAC Data Downloader to download Saildrone data.
 Instructions for installing the necessary Python packages, and more information on obtaining S-MODE data are in the [In Situ Case Study README](./README-InSitu.md).ß
