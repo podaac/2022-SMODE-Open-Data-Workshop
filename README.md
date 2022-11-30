@@ -21,10 +21,10 @@ Deborah Smith, NASA Marshall Space Flight Center, 10 minutes
 (3) Introduction/tutorial on S-MODE data sets and cloud data access  
 Victoria McDonald and Jack McNelis, NASA JPL - PO.DAAC, 20 minutes
 
-(4) Science case study #1 - Airborne  
+(4) [Science case study #1 - Airborne](#science-case-study-airborne)  
 Ernesto Rodriguez, NASA JPL - S-MODE Deputy PI for Airborne Measurements, 30 minutes
 
-(5) Science case study #2 - In Situ  
+(5) [Science case study #2 - In Situ](#science-case-study-in-situ)  
 Cesar Rocha, University of Connecticut - Saildrone Principal Investigator, 30 minutes
 
 (6) Wrap up Q&A (10 minutes)
@@ -96,11 +96,11 @@ S-MODE data can be found through Earthdata Search here: [https://search.earthdat
 
 The [PO.DAAC Data Downloader](https://github.com/podaac/data-subscriber) can be used to download the datasets used in the following Case Studies. Code can be found in the [notebooks](./notebooks/) directory.
 
-## Science Case Study 1 - Airborne
+## Science Case Study Airborne
 
 The [DownloadDopplerScattData.ipyb](./notebooks/DownloadDopplerScattData.ipynb) notebook walks through creating the .netrc file and downloading the Dopplerscatt data used in this case study. The [VisualizeDopplerScattData.ipynb](./notebooks/VisualizeDopplerScattData.ipynb) notebook contains the Airborne Science Case Study data visualization and discussion. Instructions for installing the airborne material in a [conda](https://conda.io/projects/conda/en/latest/user-guide/install/download.html) environment are contained in this [Airborne Case Study README](./README-Airborne.md).
 
-## Science Case Study 2 - In Situ
+## Science Case Study In Situ
 
 The [insitu_datavis_demo.ipynb](./notebooks/insitu_dataviz_demo.ipynb) notebook contains the In Situ Science Case Study data visualization and discussion. This notebook also contains sample code to run the PO.DAAC Data Downloader to download Saildrone data.
 Instructions for installing the necessary Python packages, and more information on obtaining S-MODE data are in the [In Situ Case Study README](./README-InSitu.md).ß
