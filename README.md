@@ -16,7 +16,7 @@ The S-MODE data are available through
 To access the data, you need an account on [NASA
 EarthData](https://urs.earthdata.nasa.gov/).  
 
-The data used in this demo is downloaded with shell comands in the notebook.
+The data used in this demo are downloaded with shell comands in the notebook.
 The code assumes you have followed the instructions on previous talks/demos to
 [set up
 podaac-data-subscriber/downloader](https://github.com/podaac/data-subscriber)
