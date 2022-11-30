@@ -9,7 +9,7 @@ This repository contains material presented at the [NASA S-MODE Open Data Worksh
 The simplest way to run the notebooks in this demonstartion is to use [conda](https://conda.io/projects/conda/en/latest/user-guide/install/download.html) to create a suitable environment:
 
 ```shell
-conda create -n smode_data_workshop xarray netcdf4 rioxarray astropy matplotlib jupyterlab
+conda create -n smode_data_workshop xarray netcdf4 astropy matplotlib jupyterlab
 ```
 
 ## Obtaining DopplerScatt data

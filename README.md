@@ -95,4 +95,4 @@ You can also run the following script to automatically create your .netrc file i
 
 S-MODE data can be found through Earthdata Search here: [https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE](https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE)
 
-A [notebook is available here](./notebooks/DownloadDopplerScattData.ipynb) that walks through creating the .netrc file and downloading the Dopplerscatt data used in the Airborne Science Case Study. [A second notebook](./notebooks/VisualizeDopplerScattData.ipynb) contains the Airborne Science Case Study data visualization and discussion.
+A [notebook is available here](./notebooks/DownloadDopplerScattData.ipynb) that walks through creating the .netrc file and downloading the Dopplerscatt data used in the Airborne Science Case Study. [A second notebook](./notebooks/VisualizeDopplerScattData.ipynb) contains the Airborne Science Case Study data visualization and discussion. Instructions for installing the airborne material in a [conda]() environment are contained in this [Airborne Case Study README](./README-Airborne.md).
