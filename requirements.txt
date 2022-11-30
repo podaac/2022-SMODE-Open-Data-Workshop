@@ -3,5 +3,6 @@ jupyterlab
 xarray
 numpy
 netCDF4
+astropy
 gsw
 podaac-data-subscriber

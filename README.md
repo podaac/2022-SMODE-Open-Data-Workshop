@@ -12,26 +12,25 @@ The Submesoscale Ocean Dynamics and Vertical Transport Experiment (S-MODE) scien
 
 ## Agenda
 
-(1) Introduction to the S-MODE project, Pilot campaign, and data
+(1) Introduction to the S-MODE project, Pilot campaign, and data  
 Tom Farrar, Woods Hole Oceanographic Institution - S-MODE Principal Investigator, 20 minutes
 
-(2) Airborne Data Management Group (ADMG) and CASEI inventory (Catalog of Archived Suborbital Earth Science Investigations)
+(2) Airborne Data Management Group (ADMG) and CASEI inventory (Catalog of Archived Suborbital Earth Science Investigations)  
 Deborah Smith, NASA Marshall Space Flight Center, 10 minutes
 
-(3) Introduction/tutorial on S-MODE data sets and cloud data access
+(3) Introduction/tutorial on S-MODE data sets and cloud data access  
 Victoria McDonald and Jack McNelis, NASA JPL - PO.DAAC, 20 minutes
 
-(4) Science case study #1 - Airborne
+(4) Science case study #1 - Airborne  
 Ernesto Rodriguez, NASA JPL - S-MODE Deputy PI for Airborne Measurements, 30 minutes
 
-(5) Science case study #2 - In Situ
+(5) Science case study #2 - In Situ  
 Cesar Rocha, University of Connecticut - Saildrone Principal Investigator, 30 minutes
 
 (6) Wrap up Q&A (10 minutes)
 
 
 ## Prerequisites
-
 
 To follow along hands-on during the Workshop, please do the following:
 
@@ -95,4 +94,13 @@ You can also run the following script to automatically create your .netrc file i
 
 S-MODE data can be found through Earthdata Search here: [https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE](https://search.earthdata.nasa.gov/portal/podaac-cloud/search?fpj=S-MODE)
 
-A [notebook is available here](./notebooks/DownloadDopplerScattData.ipynb) that walks through creating the .netrc file and downloading the Dopplerscatt data used in the Airborne Science Case Study. [A second notebook](./notebooks/VisualizeDopplerScattData.ipynb) contains the Airborne Science Case Study data visualization and discussion. Instructions for installing the airborne material in a [conda]() environment are contained in this [Airborne Case Study README](./README-Airborne.md).
+The [PO.DAAC Data Downloader](https://github.com/podaac/data-subscriber) can be used to download the datasets used in the following Case Studies. Code can be found in the [notebooks](./notebooks/) directory.
+
+## Science Case Study 1 - Airborne
+
+The [DownloadDopplerScattData.ipyb](./notebooks/DownloadDopplerScattData.ipynb) notebook walks through creating the .netrc file and downloading the Dopplerscatt data used in this case study. The [VisualizeDopplerScattData.ipynb](./notebooks/VisualizeDopplerScattData.ipynb) notebook contains the Airborne Science Case Study data visualization and discussion. Instructions for installing the airborne material in a [conda](https://conda.io/projects/conda/en/latest/user-guide/install/download.html) environment are contained in this [Airborne Case Study README](./README-Airborne.md).
+
+## Science Case Study 2 - In Situ
+
+The [insitu_Datavis_demo.ipynb](./notebooks/insitu_dataviz_demo.ipynb) notebook contains the In Situ Science Case Study data visualization and discussion. This notebook also contains sample code to run the PO.DAAC Data Downloader to download Saildrone data.
+Instructions for installing the necessary Python packages, and more information on obtaining S-MODE data are in the [In Situ Case Study README](./README-InSitu.md).ß
