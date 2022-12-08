@@ -5,9 +5,9 @@ December 1, 2022
 The Submesoscale Ocean Dynamics and Vertical Transport Experiment (S-MODE) science team is hosting a virtual Open Data Workshop on 1 December 2022 from 11:00am – 1:00pm ET. We invite everyone in the scientific community to attend this workshop to hear about the S-MODE mission, to learn about its instrumentation, and find out how to access and use its data products.
 
 
-## Registration
+## Recordings and Presentations
 
-[Register for the workshop here.](https://forms.gle/LaWxQ5VeB86tt27cA)
+[Presentation materials and a recording of the workshop are available here.](https://espo.nasa.gov/s-mode/content/S-MODE_2022_ODW_Recording_and_Presentations)
 
 
 ## Agenda
